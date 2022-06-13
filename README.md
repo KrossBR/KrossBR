@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces 😅  
   
 
-<br/>  
+<br/>
 
 
 ## Connect with me  
@@ -68,12 +68,19 @@
 <br/>  
 
 
+<!-- ********************************************************************************************************************************* STATUS CONTRIBUTION -->
+## Status
+![snake gif](https://github.com/krossbr/krossbr/blob/output/github-contribution-grid-snake.svg)
+<!-- ********************************************************************************************************************************* STATUS CONTRIBUTION END -->
+
+
+
+<!-- ********************************************************************************************************************************* SKILLS -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
+### Frontend <!-- ***************************************** FRONTEND -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -87,10 +94,9 @@
 </div>
 
 </td><td valign="top" width="33%">
+  
 
-
-
-### Backend  
+### Backend  <!-- ***************************************** BACKEND -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -110,8 +116,7 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
+### DevOps  <!-- ***************************************** DEVOPS -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
@@ -128,8 +133,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Design  
+### Design  <!-- ***************************************** DESIGN -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
@@ -145,7 +149,7 @@
 
 
 
-### Game  
+### Game  <!-- ***************************************** GAME -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
@@ -159,7 +163,7 @@
 
 
 
-### Other  
+### Others  <!-- ***************************************** OTHERS -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
@@ -167,30 +171,53 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
+
+<!-- ********************************************************************************************************************************* SKILLS END -->
 
 <br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krossbr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<!-- TABLE STATES 01 -->
+<table align="center"><tr><td valign="top" width="50%">
+  
+<!-- STATUS RANK -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krossbr&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
+ 
+<!-- STATUS CONTRIBUTIONS -->
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=krossbr&hide_border=true&theme=gruvbox" align="center" style="width: 100%" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossbr&hide_border=true&layout=compact" align="center" /></div>
+</td></tr></table>  
+
+<!-- TABLE STATES 02 -->
+<table align="center" border="0"><tr><td valign="top" width="50%">
+
+<!-- STATUS TROPHYS-->
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=krossbr&column=3&margin-w=5&margin-h=5&no-frame=true&theme=gruvbox" align="center" style="width: 100%" /></div>
+
+</td><td valign="top" width="50%">
+  
+<!-- STATUS LANGUAGES-->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossbr&hide_border=true&langs_count=10&layout=compact&theme=gruvbox" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
 <br/>  
 
+----
+
+<div align="center">Thanks for visiting my <a href="https://github.com/KrossBR" target="_blank">Github</a> 😉😊👋</div>
+
+<br/>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=krossbr&&style=flat-square" align="center" />
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
@@ -199,9 +226,3 @@ src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=
 align="center"
 />
 </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-![snake gif](https://github.com/krossbr/krossbr/blob/output/github-contribution-grid-snake.svg)
