@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Carlos H.</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
+
 <div align="center">
 <img src="https://cdn.wallpapersafari.com/21/85/lcEuDe.jpg" align="center" style="width: 100%" />
 </div>  
@@ -20,15 +23,21 @@
 
 <br/>
 
+<!-- ********************************************************************************************************************************* SOCIAL MEDIAS -->
+## Connect with me 
 
-## Connect with me  
+<!-- FIRST OPTION ICONS-->
 <div align="center">
 <a href="https://github.com/krossbr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/a" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-henrique-dos-santos" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://sketchfab.com/CarlosH" target="_blank">
+<img src=https://img.shields.io/badge/Sketchfab-1CAAD9.svg?style=for-the-badge&logo=Sketchfab&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<!--
 <a href="https://twitter.com/a" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -61,11 +70,25 @@
 </a>
 <a href="https://www.youtube.com/user/a" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+</a>
+-->
+</div>
 
-<br/>  
+<br/>
+
+<!-- SECOND OPTION ICONS
+<div align="center">
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheEssem/FocialMix/dev/src/codepen.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/sketchfab.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://raw.githubusercontent.com/xtoolkit/Micon/master/icons/webbrand/artstation.svg" alt="" height="30" width="40" /></a>
+</div>
+-->
+
+<!-- ********************************************************************************************************************************* SOCIAL MEDIAS END -->
 
 
 <!-- ********************************************************************************************************************************* STATUS CONTRIBUTION -->
@@ -209,16 +232,22 @@
 
 ----
 
+<!-- ********************************************************************************************************************************* BYE MESSAGE -->
+
+<!-- BYE MESSAGE -->
 <div align="center">Thanks for visiting my <a href="https://github.com/KrossBR" target="_blank">Github</a> 😉😊👋</div>
 
 <br/>
 
+<!-- VIEW COUNT -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=krossbr&&style=flat-square" align="center" />
 </div>
 
 <br/>
 
+<!-- DONATE MESSAGE --> 
+<!--
 <div align="center">
 <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
 <img
@@ -226,3 +255,6 @@ src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=
 align="center"
 />
 </a></div>
+-->
+
+<!-- ********************************************************************************************************************************* BYE MESSAGE END -->
