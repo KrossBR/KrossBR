@@ -4,12 +4,23 @@
 <div align="center">
 <img src="https://cdn.wallpapersafari.com/21/85/lcEuDe.jpg" align="center" style="width: 100%" />
 </div>  
+
+
+### Superman: The Man of Steel
+
+"People fear what they don't understand."
+
+*It's not a problem to be ignorant about certain subjects. We need to recognize that no person was born knowing everything and that we are in a constant process of construction and deconstruction. That's why informing and teaching is the best we can do for other people*.
+
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/de/4/43/Supermansdeath-logo.svg" alt="Superman" height="50"></div>
   
+
+## About me
 
 ### <div align="center">I'm Carlos, a full-time full-stack freelance developer and design 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Cantacom](https://cantacom.com.br)  
   
 
 - 🌱 I’m currently learning Web Development 😍  
@@ -18,10 +29,18 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces 😅  
+- ⚡ Fun fact: I <3 80's culture 😅  
   
 
 <br/>
+
+<h4 align="right">Languages I'm Learning:</h3>
+<p align="right">
+    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/brazil.svg" alt="Brasil" width="40"/>
+    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/spain.svg" alt="Brasil" width="40"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="Brasil" width="40"/>
+    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Brasil" width="40"/>
+</p>
 
 <!-- ********************************************************************************************************************************* SOCIAL MEDIAS -->
 ## Connect with me 
@@ -261,13 +280,3 @@ align="center"
 -->
 
 <!-- ********************************************************************************************************************************* BYE MESSAGE END -->
-
-### Outros
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/brazil.svg" alt="Brasil" width="40"/></a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/spain.svg" alt="Brasil" width="40"/></a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="Brasil" width="40"/></a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Brasil" width="40"/></a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/4/43/Supermansdeath-logo.svg" alt="Brasil" width="40"/></a>
-</p>
