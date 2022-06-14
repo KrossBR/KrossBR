@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos H.</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 <div align="center">
 <img src="https://cdn.wallpapersafari.com/21/85/lcEuDe.jpg" align="center" style="width: 100%" />
