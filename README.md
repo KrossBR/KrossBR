@@ -130,7 +130,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://github.com/rdimascio/icons/blob/master/icons/color/wordpress.svg" alt="Wordpress" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/composer.svg" alt="Composer" height="50" />  
 <img style="margin: 10px" src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/php2.svg" alt="PHP" height="40" />  
 <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/laravel.svg" alt="Laravel" height="50" />  
 </div>
@@ -258,28 +259,17 @@ align="center"
 
 <!-- ********************************************************************************************************************************* BYE MESSAGE END -->
 
-### Ferrmaentas
-
-<h3 align="left">Linguagens:</h3>
-<p align="left">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c plus plus" width="40" height="40"/></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-</p>
+### Outros
 
 <h3 align="left">Web:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/php2.svg" alt="PHP" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node js" width="40" height="40"/></a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
-	<a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/rdimascio/icons/blob/master/icons/color/wordpress.svg" alt="Wordpress" width="40" height="40"/></a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/composer.svg" alt="Composer" width="40" height="40"/></a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/brazil.svg" alt="Brasil" width="40"/></a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/spain.svg" alt="Brasil" width="40"/></a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="Brasil" width="40"/></a>
