@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning Web Development 😍  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to games, design and related technologies  
   
 
 - ⚡ Fun fact: I ❤ 80's culture and Video Games 🕹😅  
