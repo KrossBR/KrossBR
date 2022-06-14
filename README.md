@@ -166,37 +166,35 @@
 <img style="margin: 10px" src="https://github.com/rdimascio/icons/blob/master/icons/color/aftereffects.svg" alt="After Effects" height="50" /> 
 <img style="margin: 10px" src="https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg" alt="Adobe XD" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="Inkscape" height="50" />  
+<img style="margin: 10px" src="https://github.com/detain/svg-logos/blob/master/svg/autocad-2016-icon.svg" alt="Autocad" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Game  <!-- ***************************************** GAME -->
+### Game & 3D  <!-- ***************************************** GAME -->
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/unity.svg" alt="Unity 3D" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="Unreal" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot"  height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gamemaker.svg" alt="Gamemaker" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="Construct" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://github.com/detain/svg-logos/blob/master/svg/3ds-max-full.svg" alt="3ds Max" height="50" />  
+<img style="margin: 10px" src="https://github.com/file-icons/icons/blob/master/svg/SketchUp-Make.svg" alt="Sketchup" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Others  <!-- ***************************************** OTHERS -->
+### Others in learning <!-- ***************************************** OTHERS -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" height="50" />  
 </div>
 
 </td></tr></table>
@@ -272,14 +270,4 @@ align="center"
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="Brasil" width="40"/></a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Brasil" width="40"/></a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/4/43/Supermansdeath-logo.svg" alt="Brasil" width="40"/></a>
-</p>
-
-<h3 align="left">Ferramentas:</h3>
-<p align="left">
-    <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a>
-    <a href="https://www.autodesk.com/products/3ds-max/free-trial" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/3ds-max-full.svg" alt="3ds max" width="40" height="40"/></a>
-    <a href="https://www.autodesk.com/products/autocad" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/autocad-2016-icon.svg" alt="Autocad" width="40" height="40"/></a>
-    <a href="https://www.sketchup.com/pt-BR" target="_blank"> <img src="https://github.com/file-icons/icons/blob/master/svg/SketchUp-Make.svg" alt="Sketchup" width="40" height="40"/></a>
-    <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/></a>
-    <a href="https://inkscape.org/pt-br/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/></a>
 </p>
