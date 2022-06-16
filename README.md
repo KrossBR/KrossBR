@@ -56,12 +56,14 @@
 <a href="https://www.frontendmentor.io/profile/KrossBR" target="_blank">
 <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white" alt="Frontend Mentor" style="margin-bottom: 5px;" />
 </a>
+<!--
 <a href="https://sketchfab.com/CarlosH" target="_blank">
 <img src="https://img.shields.io/badge/Sketchfab-1CAAD9.svg?style=for-the-badge&logo=Sketchfab&logoColor=white" alt="Sketchfab" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.artstation.com/carlosh" target="_blank">
 <img src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" alt="ArtStation" style="margin-bottom: 5px;" />
 </a>
+-->
 <!--
 <a href="https://twitter.com/a" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
