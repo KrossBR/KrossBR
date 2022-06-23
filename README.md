@@ -37,9 +37,9 @@
 <h4 align="right">Languages I'm Learning:</h3>
 <p align="right">
     <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/brazil.svg" alt="Brasil" width="40"/>
-    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/spain.svg" alt="Brasil" width="40"/>
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="Brasil" width="40"/>
-    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Brasil" width="40"/>
+    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/spain.svg" alt="Spain" width="40"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="USA" width="40"/>
+    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Japan" width="40"/>
 </p>
 
 <!-- ********************************************************************************************************************************* SOCIAL MEDIAS -->
