@@ -42,6 +42,15 @@
     <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Japan" width="40"/>
 </p>
 
+## Unity Skills
+
+<div align="center">
+  <a href="https://www.credly.com/badges/a05cec0f-01b6-415a-b20d-70b465eb7acc/public_url">
+    <img src="https://images.credly.com/size/220x220/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" width="100">
+  </a>
+  <p>Unity Essentials Pathway</p>
+</div>
+
 <!-- ********************************************************************************************************************************* SOCIAL MEDIAS -->
 ## Connect with me 
 
