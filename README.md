@@ -162,14 +162,14 @@
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg" alt="MySql" height="50" /> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/mysql.svg" alt="MySql" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
 <img style="margin: 10px" src="https://github.com/rdimascio/icons/blob/master/icons/color/wordpress.svg" alt="Wordpress" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/composer.svg" alt="Composer" height="50" />  
 <img style="margin: 10px" src="https://github.com/manuelbieh/logo-file-icons/blob/master/icons/php2.svg" alt="PHP" height="40" />  
-<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/laravel.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/laravel.svg" alt="Laravel" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -245,7 +245,7 @@
 <table align="center"><tr><td valign="top" width="50%">
   
 <!-- STATUS RANK -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krossbr&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krossbr&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
  
@@ -263,7 +263,7 @@
 </td><td valign="top" width="50%">
   
 <!-- STATUS LANGUAGES-->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krossbr&hide_border=true&langs_count=10&layout=compact&theme=gruvbox" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krossbr&hide_border=true&langs_count=10&layout=compact&theme=gruvbox" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
