@@ -36,10 +36,10 @@
 
 <h4 align="right">Languages I'm Learning:</h3>
 <p align="right">
-    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/brazil.svg" alt="Brasil" width="40"/>
-    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/spain.svg" alt="Spain" width="40"/>
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/usac.svg" alt="USA" width="40"/>
-    <img src="https://raw.githubusercontent.com/seanherron/Flag-Webicons/master/flags/japan.svg" alt="Japan" width="40"/>
+    <img src="https://github.com/KrossBR/images/blob/f79743af4adc1b3c2f6509b10c0a31dae1207535/brazil.png" alt="Brazil" width="40"/>
+    <img src="https://github.com/KrossBR/images/blob/f79743af4adc1b3c2f6509b10c0a31dae1207535/spain.png" alt="Spain" width="40"/>
+    <img src="https://github.com/KrossBR/images/blob/f79743af4adc1b3c2f6509b10c0a31dae1207535/usa.png" alt="USA" width="40"/>
+    <img src="https://github.com/KrossBR/images/blob/f79743af4adc1b3c2f6509b10c0a31dae1207535/japan.png" alt="Japan" width="40"/>
 </p>
 
 ## Unity Skills
