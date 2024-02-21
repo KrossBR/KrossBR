@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 <div align="center">
-<img src="https://cdn.wallpapersafari.com/21/85/lcEuDe.jpg" align="center" style="width: 100%" />
+<img src="https://source.unsplash.com/1400x425/?sunshine" align="center" style="width: 100%" />
 </div>  
 
 
@@ -12,7 +12,7 @@
 
 *It's not a problem to be ignorant about certain subjects. We need to recognize that no person was born knowing everything and that we are in a constant process of construction and deconstruction. That's why informing and teaching is the best we can do for other people*.
 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/de/4/43/Supermansdeath-logo.svg" alt="Superman" height="50"></div>
+<div align="center"><img src="https://github.com/KrossBR/images/blob/e2c4b393d4084c9fdfa521a669be424949692f71/death-superman.svg" alt="Superman" height="50"></div>
   
 
 ## About me
@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/a05cec0f-01b6-415a-b20d-70b465eb7acc/public_url">
-    <img src="https://images.credly.com/size/220x220/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" width="100">
+    <img src="https://github.com/KrossBR/images/blob/e2c4b393d4084c9fdfa521a669be424949692f71/unity-essentials.png" width="100">
   </a>
   <p>Unity Essentials Pathway</p>
 </div>
