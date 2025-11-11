@@ -20,7 +20,7 @@
 ### <div align="center">I'm Carlos, a full-time full-stack freelance developer and design 💻🎬👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Cantacom](https://cantacom.com.br)  
+<!-- 🔭 I’m currently working on [Cantacom](https://cantacom.com.br)   -->
   
 
 - 🌱 I’m currently learning Web Development 😍  
